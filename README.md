@@ -51,6 +51,7 @@ mitmdump -s Secure-Proxy.py
 # Configure your system/browser to use proxy 127.0.0.1:8080
 # Install mitmproxy CA cert for HTTPS decryption
 ```
+(or just get the exe from the releases and double click it, then open http://127.0.0.1:8765 on ur browser if its running it will open up a dashboard)
 
 ## Configuration
 
